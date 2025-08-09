@@ -13,7 +13,7 @@
   **Technologies Used:**
     - HTML5: Markup structure
     - CSS3: Styling, layout, and animations
-    - JavaScript (Vanilla JS): Handling tab switching and dynamic content display
+    - JavaScript: Handling tab switching and dynamic content display
 
   **How to Use:**
     1. Open index.html in a web browser.
